@@ -17,4 +17,3 @@ with open('new_test.txt', 'w', encoding="utf-8") as nf:
 
     print(body_forms)
     nf.write(body_forms)
- 
